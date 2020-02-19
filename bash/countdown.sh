@@ -12,7 +12,7 @@ trap sfound 3
 
 
 function sfound {
-  echo "well done,you have successfully found the secret for exiting"
+  echo "well done...,you have successfully found the secret for exiting"
   exit
 }
 
